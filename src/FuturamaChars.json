@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Fry",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest?cb=20110916120042"
+  },
+  {
+    "id": 2,
+    "name": "Leela",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d4/Turanga_Leela.png/revision/latest?cb=20150218013044"
+  },
+  {
+    "id": 3,
+    "name": "Bender",
+    "image": "https://vignette2.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest?cb=20150206072725"
+  },
+  {
+    "id": 4,
+    "name": "Zoidberg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Dr_John_Zoidberg.png"
+  },
+  {
+    "id": 5,
+    "name": "Amy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/FuturamaAmyWong.png"
+  },
+  {
+    "id": 6,
+    "name": "Kiff",
+    "image": "https://theinfosphere.org/images/thumb/5/56/Kif_Kroker.jpg/225px-Kif_Kroker.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Professor Farnsworth",
+    "image": "http://www.futurama-madhouse.net/bios/bioFarnsworth.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Zapp",
+    "image": "https://vignette1.wikia.nocookie.net/en.futurama/images/e/e9/Zapp_Brannigan.png/revision/latest?cb=20101013084300"
+  },
+  {
+    "id": 9,
+    "name": "Scruffy",
+    "image": "https://static.simpsonswiki.com/images/thumb/1/10/Scruffy.png/250px-Scruffy.png"
+  },
+  {
+    "id": 10,
+    "name": "Mom",
+    "image": "http://www.behindthevoiceactors.com/_img/chars/mom-futurama-benders-game-8.59.jpg"
+  }
+]
