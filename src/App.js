@@ -11,7 +11,11 @@ class App extends Component {
     FuturamaChars
   };
 
-  // Map over this.state.friends and render a FriendCard component for each friend object
+  // Create an imgShuffle function to shuffle images once being clicked. Create a curScore keeping variable with "let."
+  // curScore resets if the same image is clicked, highScore is saved.
+
+  // Map over this.state.FuturamaChars and render a FuturamaChars component for each object. Attach onChange to each object
+  // to handle imgShuffle function
   render() {
     return (
       <Wrapper>
